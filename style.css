@@ -18,13 +18,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
-    /* margin-bottom: 50px; */
 }
 
 .container {
     margin: 50px;
-    /* margin-bottom: 40px; */
     background-color: #3a4452;
     width: 320px;
     height: 450px;
@@ -46,8 +43,6 @@ body {
     font-size: 30px;
     color: white;
     width: 100%;
-    /* padding: 0 30px; */
-    /* overflow-x: auto; */
 }
 
 .calculator {
@@ -59,7 +54,6 @@ body {
 }
 
 button {
-    /* width: 100%; */
     width: 50px;
     height: 50px;
     border: none;
@@ -69,7 +63,6 @@ button {
     background-color: #3a4452;
     box-shadow: -5px -5px 10px rgba(153, 153, 153, 0.212);
     color: white;
-    transition: 0.3s;
 }
 
 button:active {
